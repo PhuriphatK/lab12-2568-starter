@@ -21,7 +21,7 @@ export default function MainLayout() {
 
       <AppShell.Navbar>
         <Sidebar 
-          userName = "Rawiphat"
+          userName = "Phuriphat"
           type = "student"
           />
       </AppShell.Navbar>
@@ -29,8 +29,8 @@ export default function MainLayout() {
       <AppShell.Footer>
         <FooterComponent
           year="2025"
-          fullName="rawiphat"
-          studentId="670612128"
+          fullName="phuriphat"
+          studentId="670612127"
         />
       </AppShell.Footer>
 
