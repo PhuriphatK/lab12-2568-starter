@@ -8,8 +8,8 @@ import { MantineProvider, createTheme, virtualColor } from "@mantine/core";
 const theme = createTheme({
   fontFamily: "Open Sans, sans-serif",
   colors: {
-    Rawiphat: virtualColor({
-      name: "Rawiphat",
+    Phuriphat: virtualColor({
+      name: "Phuriphat",
       dark: "yellow",
       light: "grape",
     }),

@@ -119,7 +119,7 @@ export default function HomePage() {
                   )}
                   {/* แสดง Date & Time */}
                   {task.isDone && (
-                    <Text size="xs" c="Rawiphat">
+                    <Text size="xs" c="Phuriphat">
                       Done at: {task.doneAt?.toLocaleString()}
                     </Text>
                   )}
